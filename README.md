@@ -1,4 +1,5 @@
-![image](https://scontent.fnbo10-1.fna.fbcdn.net/v/t1.6435-9/52893633_2247441818844500_2826556387390128128_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeGkSOj_TNsoSGQAZ_riq5Xy90K3fmnXSV_3Qrd-addJXxxetbWG3Y0YvD533Ld95lP1tvcAKII1Oqk_uGTxQlM_&_nc_ohc=6o98--xaK3IQ7kNvgGantSF&_nc_ht=scontent.fnbo10-1.fna&_nc_gid=AbpI9wvp7MrjOxGMUGZuMsc&oh=00_AYCd3YsF9HDHyYU-00lDaOihTEnAeTb3aUI1fFfe1LR5Sg&oe=672B73E7)Hi there, I'm Kevin Ropy 👋
+![image](https://scontent.fnbo10-1.fna.fbcdn.net/v/t1.6435-9/52893633_2247441818844500_2826556387390128128_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeGkSOj_TNsoSGQAZ_riq5Xy90K3fmnXSV_3Qrd-addJXxxetbWG3Y0YvD533Ld95lP1tvcAKII1Oqk_uGTxQlM_&_nc_ohc=6o98--xaK3IQ7kNvgGantSF&_nc_ht=scontent.fnbo10-1.fna&_nc_gid=AbpI9wvp7MrjOxGMUGZuMsc&oh=00_AYCd3YsF9HDHyYU-00lDaOihTEnAeTb3aUI1fFfe1LR5Sg&oe=672B73E7)
+## Hi there, I'm Kevin Ropy 👋
 
 I'm a passionate **Full-stack Developer** with expertise in building end-to-end web applications. I love crafting seamless user experiences with **modern frontend technologies** and ensuring robust functionality with **backend frameworks**. I’m always exploring new tools and technologies to keep my development game strong.
 
