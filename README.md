@@ -53,9 +53,9 @@ A task management tool for teams, with role-based access control and task tracki
 - Training **Software sevelopers at Techcamp**.
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ropykevin&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ropykevin&layout=compact&theme=radical)
 
 ---
 
