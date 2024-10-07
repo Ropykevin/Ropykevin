@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8bd505b3-104d-4447-a053-deba33ee415a)# Hi there, I'm [Your Name] 👋
+![image](https://github.com/user-attachments/assets/8bd505b3-104d-4447-a053-deba33ee415a)Hi there, I'm Kevin Ropy 👋
 
 I'm a passionate **Full-stack Developer** with expertise in building end-to-end web applications. I love crafting seamless user experiences with **modern frontend technologies** and ensuring robust functionality with **backend frameworks**. I’m always exploring new tools and technologies to keep my development game strong.
 
