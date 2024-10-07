@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8bd505b3-104d-4447-a053-deba33ee415a)Hi there, I'm Kevin Ropy 👋
+![image](https://scontent.fnbo9-1.fna.fbcdn.net/v/t39.30808-1/359429110_671419538214213_3638258839749588267_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=50d2ac&_nc_eui2=AeGg5jGvbb3L6ZGNW3szG9FWGPBqOJqwQuQY8Go4mrBC5HlXbD7Yltocu19EejQtQQDEBQKgABEYD-ijlefKtWfi&_nc_ohc=PN1Xd1tK8UkQ7kNvgEh6Zn6&_nc_ht=scontent.fnbo9-1.fna&_nc_gid=Aj82TfEtESJDtMxk3iI9a4d&oh=00_AYBx_Q1sf-eziseXcj8lYinTVSOJ4BfH51hRvU8lhx4FEg&oe=6709A2DC)Hi there, I'm Kevin Ropy 👋
 
 I'm a passionate **Full-stack Developer** with expertise in building end-to-end web applications. I love crafting seamless user experiences with **modern frontend technologies** and ensuring robust functionality with **backend frameworks**. I’m always exploring new tools and technologies to keep my development game strong.
 
