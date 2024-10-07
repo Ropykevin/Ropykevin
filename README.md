@@ -63,4 +63,4 @@ A task management tool for teams, with role-based access control and task tracki
 
 - LinkedIn: [Kevin Ropy](https://linkedin.com/in/kevin-ropy)
 - Twitter: [@RopyKevin6](https://twitter.com/RopyKevin6)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Portfolio: [ropykevin.com](https://yourwebsite.com)
