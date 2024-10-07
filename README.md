@@ -51,7 +51,7 @@ A task management tool for teams, with role-based access control and task tracki
 - Building a **Room Booking System** for tracking students  studies .
 - Contributing to open-source projects in the **Vue.js,FastApi,React** and **Flask** ecosystems.
 - Learning more about **serverless architecture** and **AWS Lambda**.
-- Training **Software sevelopers at Techcamp**.
+- Training **Software sevelopers at Techcamp(https://www.techcamp.co.ke/)**.
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ropykevin&show_icons=true&theme=radical)
